@@ -24,13 +24,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/HabibJr)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@smhabibjr)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/smhabibjr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="smhabibjr" /></a>
-<a href="https://paypal.me/habib2030@web.de"> <img align="left" src="https://img.shields.io/badge/PayPal-00457C" height="50" width="210" alt="smhabibjr" /></a>
-</p>
-<br><br>
 
-<h3 align="center">Github Details:</h3>
+<h3 align="left">Github Details:</h3>
 
 
 <p align="center">
@@ -52,3 +47,11 @@
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smhabibjr" alt="smhabibjr" /></a> 
 </p>
+
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/smhabibjr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="smhabibjr" /></a>
+<a href="https://paypal.me/habib2030@web.de"> <img align="left" src="https://img.shields.io/badge/PayPal-00457C" height="50" width="210" alt="smhabibjr" /></a>
+</p>
+<br>
