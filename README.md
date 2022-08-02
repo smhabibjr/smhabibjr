@@ -30,11 +30,8 @@
 </p>
 <br><br>
 
-<h3 align="center">Github stars:</h3>
+<h3 align="center">Github Details:</h3>
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smhabibjr" alt="smhabibjr" /></a> 
-</p>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smhabibjr&show_icons=true&locale=en&layout=compact" alt="smhabibjr" />
@@ -48,4 +45,10 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smhabibjr&" alt="smhabibjr" />
+</p>
+
+
+
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smhabibjr" alt="smhabibjr" /></a> 
 </p>
