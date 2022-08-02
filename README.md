@@ -1,6 +1,5 @@
-### Hi there 👋
 # 💫 About Me:
-- 🔭 I’m currently working on acs-systemhaus GmbH<br>- 🌱 I’m currently learning Reactjs and React Native <br>- 💬 Ask me about Full stack web development <br>- 📫 How to reach me: habib2030@web.de <br>- ⚡ Fun fact: Learn the new programming language and listen to music. 
+🔭 I’m currently working on acs-systemhaus GmbH <br>🌱 I’m currently learning Reactjs and React Native <br>💬 Ask me about Full stack web development <br>📫 How to reach me: habib2030@web.de <br>⚡ Fun fact Learn the new programming language and listen to music. 
 
 
 ## 🌐 Socials:
@@ -12,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=smhabibjr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=smhabibjr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smhabibjr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=smhabibjr&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
