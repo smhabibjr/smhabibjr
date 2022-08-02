@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahman Habib</h1>
-<h3 align="center">A Dresden based passionate Full stack web developer</h3> 
+<h3 align="center">A Dresden based Full stack web developer</h3> 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=smhabibjr&label=Profile%20views&color=0e75b6&style=flat" alt="smhabibjr" /> </p>
 
 🔭 I’m currently working on acs-systemhaus GmbH <br>🌱 I’m currently learning Reactjs and React Native <br>💬 Ask me about Full stack web development <br>📫 How to reach me: habib2030@web.de <br>⚡ Fun fact Learn the new programming language and listen to music.<br> 📝 I regularly write articles on [www.habibjr.com](https://www.habibjr.com/)
@@ -37,15 +37,15 @@
 </p>
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smhabibjr&show_icons=true&locale=en&layout=compact" alt="smhabibjr" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smhabibjr&show_icons=true&locale=en&layout=compact" alt="smhabibjr" />
 </p>
 
 
 <p align="center">
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=smhabibjr&show_icons=true&locale=en" alt="smhabibjr" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smhabibjr&show_icons=true&locale=en" alt="smhabibjr" />
 </p>
 
 
 <p align="center">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=smhabibjr&" alt="smhabibjr" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smhabibjr&" alt="smhabibjr" />
 </p>
