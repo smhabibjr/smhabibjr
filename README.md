@@ -41,7 +41,11 @@
 </p>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smhabibjr&show_icons=true&locale=en" alt="smhabibjr" /></p>
+<p align="center">
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=smhabibjr&show_icons=true&locale=en" alt="smhabibjr" />
+</p>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smhabibjr&" alt="smhabibjr" /></p>
+<p align="center">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=smhabibjr&" alt="smhabibjr" />
+</p>
