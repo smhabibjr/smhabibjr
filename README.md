@@ -27,17 +27,20 @@ Other: Linux, Git and Github
 
 ## Apprenticeship Project Documentation:
 
-- [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
+1. [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
+2. [Brand Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
+3. [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
+4. [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
 
-<h3 align="center">Ruby on Rails:</h3>
+## Ruby on Rails:
 
-<h3 align="center">JavaScript:</h3>
+## JavaScript:
 
-<h3 align="center">React js:</h3>
+## React js:
 
-<h3 align="center">React Native:</h3>
+## React Native:
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smhabibjr) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smhabibjr) 
