@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on acs-systemhaus GmbH <br>🌱 I’m currently learning Reactjs and React Native <br>💬 Ask me about Full stack web development <br>📫 How to reach me: habib2030@web.de <br>⚡ Fun fact Learn the new programming language and listen to music.<br> 📝 I regularly write articles on [www.habibjr.com](https://www.habibjr.com/)
 
-## 🛠 Languages and Tools
+## Languages and Tools
 
 Programming Languages: JavaScript, CoffeScript, Ruby, PHP, Python and C#
 
