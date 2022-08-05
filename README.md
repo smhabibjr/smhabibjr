@@ -9,7 +9,7 @@
 
 Programming Languages: JavaScript, CoffeScript, Ruby, PHP, Python and C#
 
-Frontend Development: HTML%, CSS3, SaaS, Bootstrap
+Frontend Development: HTML5, CSS3, SaaS, Bootstrap
 
 Backend Development: Ruby, PHP
 
@@ -71,23 +71,23 @@ Other: Linux, Git and Github
 <h3 align="left">Github Details:</h3>
 
 
-<p align="center">
+<p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smhabibjr&show_icons=true&locale=en&layout=compact" alt="smhabibjr" />
 </p>
 
 
-<p align="center">
+<p align="left">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smhabibjr&show_icons=true&locale=en" alt="smhabibjr" />
 </p>
 
 
-<p align="center">
+<p align="left">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smhabibjr&" alt="smhabibjr" />
 </p>
 
 
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smhabibjr" alt="smhabibjr" /></a> 
 </p>
 
