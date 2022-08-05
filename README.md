@@ -60,7 +60,7 @@ Other: Linux, Git and Github
 3. [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
 4. [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
 
-## Connect with me:
+## Connect with me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smhabibjr) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smhabibjr) 
@@ -93,7 +93,7 @@ Other: Linux, Git and Github
 
 
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support</h3>
 <p><a href="https://www.buymeacoffee.com/smhabibjr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="smhabibjr" /></a>
 <a href="https://paypal.me/habib2030@web.de"> <img align="left" src="https://img.shields.io/badge/PayPal-00457C" height="50" width="210" alt="smhabibjr" /></a>
 </p>
