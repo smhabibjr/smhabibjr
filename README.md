@@ -28,7 +28,7 @@ Other: Linux, Git and Github
 ## Apprenticeship Project Documentation
 
 1. [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
-2. [Brand Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
+2. [Trademark Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/TrademarkManagement.md)
 3. [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
 4. [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
 
