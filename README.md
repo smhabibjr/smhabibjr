@@ -29,7 +29,7 @@ Other: Linux, Git and Github
 
 1. [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
 2. [Trademark Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/TrademarkManagement.md)
-3. [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
+3. [Dialog acceptance management](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/DialogAcceptanceManagement.md)
 4. [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
 
 ## Ruby on Rails
