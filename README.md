@@ -28,9 +28,9 @@ Other: Linux, Git and Github
 ## Apprenticeship Project Documentation
 
 1. [Checklist Management System (PHP,jQuery)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
-2. [Trademark Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/TrademarkManagement.md)
-3. [Dialog acceptance Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/DialogAcceptanceManagement.md)
-4. [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
+2. [Trademark Management System (Ruby on rails, jQuery)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/TrademarkManagement.md)
+3. [Dialog acceptance Management System (Ruby on rails, jQuery)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/DialogAcceptanceManagement.md)
+4. [Checklist Management System (Ruby on rails, jQuery)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
 
 ## Ruby on Rails
 
