@@ -39,7 +39,7 @@ Other: Linux, Git and Github
 3. [Authentication from scratch](https://github.com/smhabibjr/authentication_from_scratch-RoR/blob/main/README.md)
 4. [RoR-6-template-with-bootstrap-and-jQuery](https://github.com/smhabibjr/RoR-6-template-with-bootstrap-and-jQuery)
 5. [crud-activestorage-simpleLogin-project-RoR](https://github.com/smhabibjr/crud-activestorage-simpleLogin-project-RoR)
-6. [crud-activestorage-simpleLogin-project-RoR](https://github.com/smhabibjr/crud-activestorage-simpleLogin-project-RoR)
+6. [blog-website-rails](https://github.com/smhabibjr/blog-website-rails)
 
 ## JavaScript
 
