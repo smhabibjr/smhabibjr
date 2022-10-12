@@ -71,25 +71,6 @@ Other: Linux, Git and Github
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/HabibJr)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@smhabibjr)
 
-
-<h3 align="left">Github Details:</h3>
-
-
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smhabibjr&show_icons=true&locale=en&layout=compact" alt="smhabibjr" />
-</p>
-
-
-<p align="left">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smhabibjr&show_icons=true&locale=en" alt="smhabibjr" />
-</p>
-
-
-<p align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smhabibjr&" alt="smhabibjr" />
-</p>
-
-
 <h3 align="left">Support</h3>
 <p><a href="https://www.buymeacoffee.com/smhabibjr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="smhabibjr" /></a>
 <a href="https://paypal.me/habib2030"> <img align="left" src="https://img.shields.io/badge/PayPal-00457C" height="50" width="210" alt="smhabibjr" /></a>
