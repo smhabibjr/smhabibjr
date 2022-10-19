@@ -46,8 +46,8 @@ Other: Linux, Git and Github
 1. [ Awesome ToDo App ](https://github.com/smhabibjr/Awesome-Todo-List-using-jQuery)
 2. [ Drum Kit ](https://github.com/smhabibjr/Drum_Kit-javascript)
 3. [ Sign up form validation ](https://github.com/smhabibjr/sign-up-form-validation)
-4. [RoR-6-template-with-bootstrap-and-jQuery](https://github.com/smhabibjr/RoR-6-template-with-bootstrap-and-jQuery)
-5. [crud-activestorage-simpleLogin-project-RoR](https://github.com/smhabibjr/crud-activestorage-simpleLogin-project-RoR)
+4. [ DOM-Manipulation ](https://github.com/smhabibjr/all-js-project)
+5. [ Dice Game ](https://github.com/smhabibjr/dice-game)
 
 
 ## React js:
