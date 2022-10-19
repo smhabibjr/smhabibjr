@@ -43,9 +43,9 @@ Other: Linux, Git and Github
 
 ## JavaScript
 
-1. [smeb.bd.com (Demo:Ruby on Rails)](https://github.com/smhabibjr/smeb.bd.com/blob/main/README.md)
-2. [acs-systemhaus.de (Demo:Ruby on Rails)](https://github.com/smhabibjr/acs-systemhaus.de/blob/main/README.md)
-3. [Authentication from scratch](https://github.com/smhabibjr/authentication_from_scratch-RoR/blob/main/README.md)
+1. [ Awesome ToDo App ](https://github.com/smhabibjr/Awesome-Todo-List-using-jQuery)
+2. [ Drum Kit ](https://github.com/smhabibjr/Drum_Kit-javascript)
+3. [ Sign up form validation ](https://github.com/smhabibjr/sign-up-form-validation)
 4. [RoR-6-template-with-bootstrap-and-jQuery](https://github.com/smhabibjr/RoR-6-template-with-bootstrap-and-jQuery)
 5. [crud-activestorage-simpleLogin-project-RoR](https://github.com/smhabibjr/crud-activestorage-simpleLogin-project-RoR)
 
