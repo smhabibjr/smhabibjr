@@ -34,20 +34,6 @@
 5. [ Dice Game ](https://github.com/smhabibjr/dice-game)
 
 
-## React js:
-
-1. [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
-2. [Brand Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
-3. [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
-4. [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
-
-## React Native:
-
-1. [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
-2. [Brand Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
-3. [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
-4. [Checklist Management System](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
-
 ## Connect with me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smhabibjr) 
