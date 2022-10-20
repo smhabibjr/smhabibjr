@@ -7,23 +7,7 @@
 
 ## Languages and Tools
 
-Programming Languages: JavaScript, CoffeScript, Ruby, PHP, Python and C#
-
-Frontend Development: HTML5, CSS3, SaaS, Bootstrap
-
-Backend Development: Ruby, PHP
-
-Database: MySQL, MariaDB, sqlite, PostgreSQL
-
-Devops: Docker
-
-Backend as a Service(BaaS): Heroku, Farebase
-
-Framework: Ruby on Rails
-
-Testing: Selenium
-
-Other: Linux, Git and Github
+ Bootstrap, JavaScript, CoffeScript, JQuery, Ruby, PHP, C#, MySQL, sqlite, Docker-compose, Ruby on Rails, Linux, Git and Github
 
 ## Apprenticeship Project Documentation
 
