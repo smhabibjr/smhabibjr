@@ -1,4 +1,4 @@
-<h1 align="center">💫 A Dresden based Full Stack Rails developer</h1>
+<h4 align="center">💫 A Dresden based Full Stack Rails developer</h4>
 
 <!-- <h3 align="left">A Dresden based Full stack web developer</h3> -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=smhabibjr&label=Profile%20views&color=0e75b6&style=flat" alt="smhabibjr" /> </p>
