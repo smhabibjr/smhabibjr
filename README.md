@@ -45,6 +45,7 @@
 #### Schule Projekt
 
 1. [ Kreisberechnung ](https://github.com/smhabibjr/Kreisberechnung)
+2. [ Bin-to-Dez-Dez-to-Bin-8bit ](https://github.com/smhabibjr/Bin-to-Dez-Dez-to-Bin-8bit)
 
 
 #### Connect with me
