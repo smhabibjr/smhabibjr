@@ -45,7 +45,7 @@
 2. [ HotlineBD ](https://github.com/smhabibjr/hotlineBD)
 3. [ conversionPro ](https://github.com/smhabibjr/conversionPro)
 
-#### Schule Projekt
+#### Collage Project
 
 1. [ Kreisberechnung ](https://github.com/smhabibjr/Kreisberechnung)
 2. [ Bin-to-Dez-Dez-to-Bin-8bit ](https://github.com/smhabibjr/Bin-to-Dez-Dez-to-Bin-8bit)
