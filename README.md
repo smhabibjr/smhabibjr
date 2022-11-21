@@ -33,6 +33,13 @@
 4. [ DOM-Manipulation ](https://github.com/smhabibjr/all-js-project)
 5. [ Dice Game ](https://github.com/smhabibjr/dice-game)
 
+#### ElectronJs (Desktop Application framework)
+
+1. [ Electron quick-starter ](https://github.com/smhabibjr/electron-quick-starter-with-mysql-connected)
+2. [ Electron quick-starter with webpack ](https://github.com/smhabibjr/electron-template-with-webpack-bootstrap-fontawesome-jquery)
+3. [ Desktop Scrum Board for Software Development ](https://github.com/smhabibjr/Scrum-board-for-developers)
+
+
 #### PHP
 
 1. [ Simple crud application ](https://github.com/smhabibjr/crud)
