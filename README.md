@@ -35,10 +35,9 @@
 
 #### ElectronJs (Desktop Application framework)
 
-1. [ Electron quick-starter ](https://github.com/smhabibjr/electron-quick-starter-with-mysql-connected)
-2. [ Electron quick-starter with webpack ](https://github.com/smhabibjr/electron-template-with-webpack-bootstrap-fontawesome-jquery)
-3. [ Desktop Scrum Board for Software Development ](https://github.com/smhabibjr/Scrum-board-for-developers)
-
+1. [ Desktop Scrum Board for Software Development ](https://github.com/smhabibjr/Scrum-board-for-developers)
+2. [ Electron quick-starter ](https://github.com/smhabibjr/electron-quick-starter-with-mysql-connected)
+3. [ Electron quick-starter with webpack ](https://github.com/smhabibjr/electron-template-with-webpack-bootstrap-fontawesome-jquery)
 
 #### PHP
 
