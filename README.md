@@ -7,7 +7,7 @@
 
 #### Languages and Tools
 
- Bootstrap, JavaScript, CoffeScript, JQuery, Ruby, PHP, C#, MySQL, sqlite, Docker-compose, Ruby on Rails, Linux, Git and Github
+ Bootstrap, JavaScript, CoffeScript, JQuery, Ruby, Ruby on Rails, PHP, Node.js, MySQL, sqlite, Docker-compose, Linux, Git and Github
 
 #### Apprenticeship Project Documentation
 
@@ -36,8 +36,6 @@
 #### ElectronJs (Desktop Application framework)
 
 1. [ Desktop Scrum Board for Software Development ](https://github.com/smhabibjr/Scrum-board-for-developers)
-2. [ Electron quick-starter ](https://github.com/smhabibjr/electron-quick-starter-with-mysql-connected)
-3. [ Electron quick-starter with webpack ](https://github.com/smhabibjr/electron-template-with-webpack-bootstrap-fontawesome-jquery)
 
 #### PHP
 
@@ -57,6 +55,11 @@
 2. [ Bin-to-Dez-Dez-to-Bin-8bit ](https://github.com/smhabibjr/Bin-to-Dez-Dez-to-Bin-8bit)
 3. [ Datenfelder ](https://github.com/smhabibjr/smhabibjr-LF8-Datenfelder)
 4. [ GrundrechnerV2-LF8-Dammmueller ](https://github.com/smhabibjr/GrundrechnerV2-LF8-Dammmueller)
+
+
+#### Quick Start Template
+1. [ Electron quick-starter ](https://github.com/smhabibjr/electron-quick-starter-with-mysql-connected)
+2. [ Electron quick-starter with webpack ](https://github.com/smhabibjr/electron-template-with-webpack-bootstrap-fontawesome-jquery)
 
 
 #### Connect with me
