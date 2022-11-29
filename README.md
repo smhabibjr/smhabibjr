@@ -60,6 +60,7 @@
 #### Quick Start Template
 1. [ Electron quick-starter ](https://github.com/smhabibjr/electron-quick-starter-with-mysql-connected)
 2. [ Electron quick-starter with webpack ](https://github.com/smhabibjr/electron-template-with-webpack-bootstrap-fontawesome-jquery)
+3. [ RoR-6-template-with-bootstrap-and-jQuery ](https://github.com/smhabibjr/RoR-6-template-with-bootstrap-and-jQuery)
 
 
 #### Connect with me
