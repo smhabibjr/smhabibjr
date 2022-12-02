@@ -58,9 +58,10 @@
 
 
 #### Quick Start Template
-1. [ Electron quick-starter ](https://github.com/smhabibjr/electron-quick-starter-with-mysql-connected)
-2. [ Electron quick-starter with webpack ](https://github.com/smhabibjr/electron-template-with-webpack-bootstrap-fontawesome-jquery)
-3. [ RoR-6-template-with-bootstrap-and-jQuery ](https://github.com/smhabibjr/RoR-6-template-with-bootstrap-and-jQuery)
+- [ Ruby on Rails 7 with bootstrap & Fontawesome added ](https://github.com/smhabibjr/rails-7-quick-starter)
+- [ Electron quick-starter ](https://github.com/smhabibjr/electron-quick-starter-with-mysql-connected)
+- [ Electron quick-starter with webpack ](https://github.com/smhabibjr/electron-template-with-webpack-bootstrap-fontawesome-jquery)
+- [ RoR-6-template-with-bootstrap-and-jQuery ](https://github.com/smhabibjr/RoR-6-template-with-bootstrap-and-jQuery)
 
 
 #### Connect with me
