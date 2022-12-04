@@ -11,50 +11,50 @@
 
 #### Apprenticeship Project Documentation
 
-1. [Checklist Management System (PHP,jQuery)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
-2. [Trademark Management System (Ruby on rails, jQuery)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/TrademarkManagement.md)
-3. [Dialog acceptance Management System (Ruby on rails, jQuery)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/DialogAcceptanceManagement.md)
-4. [Checklist Management System (Ruby on rails, jQuery)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
+- [Checklist Management System (PHP,jQuery)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
+- [Trademark Management System (Ruby on rails, jQuery)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/TrademarkManagement.md)
+- [Dialog acceptance Management System (Ruby on rails, jQuery)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/DialogAcceptanceManagement.md)
+- [Checklist Management System (Ruby on rails, jQuery)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
 
 #### Ruby on Rails
 
-1. [smeb.bd.com (Demo:Ruby on Rails)](https://github.com/smhabibjr/smeb.bd.com)
-2. [acs-systemhaus.de (Demo:Ruby on Rails)](https://github.com/smhabibjr/acs-systemhaus.de)
-3. [Authentication from scratch](https://github.com/smhabibjr/authentication_from_scratch-RoR)
-4. [RoR-6-template-with-bootstrap-and-jQuery](https://github.com/smhabibjr/RoR-6-template-with-bootstrap-and-jQuery)
-5. [crud-activestorage-simpleLogin-project-RoR](https://github.com/smhabibjr/crud-activestorage-simpleLogin-project-RoR)
-6. [blog-website-rails](https://github.com/smhabibjr/blog-website-rails)
+- [smeb.bd.com (Demo:Ruby on Rails)](https://github.com/smhabibjr/smeb.bd.com)
+- [acs-systemhaus.de (Demo:Ruby on Rails)](https://github.com/smhabibjr/acs-systemhaus.de)
+- [Authentication from scratch](https://github.com/smhabibjr/authentication_from_scratch-RoR)
+- [RoR-6-template-with-bootstrap-and-jQuery](https://github.com/smhabibjr/RoR-6-template-with-bootstrap-and-jQuery)
+- [crud-activestorage-simpleLogin-project-RoR](https://github.com/smhabibjr/crud-activestorage-simpleLogin-project-RoR)
+- [blog-website-rails](https://github.com/smhabibjr/blog-website-rails)
 
 #### JavaScript
 
-1. [ Awesome ToDo App ](https://github.com/smhabibjr/Awesome-Todo-List-using-jQuery)
-2. [ Drum Kit ](https://github.com/smhabibjr/Drum_Kit-javascript)
-3. [ Sign up form validation ](https://github.com/smhabibjr/sign-up-form-validation)
-4. [ DOM-Manipulation ](https://github.com/smhabibjr/all-js-project)
-5. [ Dice Game ](https://github.com/smhabibjr/dice-game)
+- [ Awesome ToDo App ](https://github.com/smhabibjr/Awesome-Todo-List-using-jQuery)
+- [ Drum Kit ](https://github.com/smhabibjr/Drum_Kit-javascript)
+- [ Sign up form validation ](https://github.com/smhabibjr/sign-up-form-validation)
+- [ DOM-Manipulation ](https://github.com/smhabibjr/all-js-project)
+- [ Dice Game ](https://github.com/smhabibjr/dice-game)
 
 #### ElectronJs (Desktop Application framework)
 
-1. [ Desktop Scrum Board for Software Development ](https://github.com/smhabibjr/Scrum-board-for-developers)
+- [ Desktop Scrum Board for Software Development ](https://github.com/smhabibjr/Scrum-board-for-developers)
 
 #### PHP
 
-1. [ Simple crud application ](https://github.com/smhabibjr/crud)
-2. [ crud-using-ajax ](https://github.com/smhabibjr/crud-using-ajax)
+- [ Simple crud application ](https://github.com/smhabibjr/crud)
+- [ crud-using-ajax ](https://github.com/smhabibjr/crud-using-ajax)
 
 
 #### Android App Development
 
-1. [ Hotline Bangladesh ](https://github.com/smhabibjr/hotline_bangladesh)| [Live on Play Store](https://play.google.com/store/apps/details?id=com.xdarssoftco.hotlinebd)
-2. [ HotlineBD ](https://github.com/smhabibjr/hotlineBD) | [Live on Play Store](https://play.google.com/store/apps/details?id=com.xdarssoftco.conversionpro)
-3. [ conversionPro ](https://github.com/smhabibjr/conversionPro)
+- [ Hotline Bangladesh ](https://github.com/smhabibjr/hotline_bangladesh)| [Live on Play Store](https://play.google.com/store/apps/details?id=com.xdarssoftco.hotlinebd)
+- [ HotlineBD ](https://github.com/smhabibjr/hotlineBD) | [Live on Play Store](https://play.google.com/store/apps/details?id=com.xdarssoftco.conversionpro)
+- [ conversionPro ](https://github.com/smhabibjr/conversionPro)
 
 #### Collage Project
 
-1. [ Kreisberechnung ](https://github.com/smhabibjr/Kreisberechnung)
-2. [ Bin-to-Dez-Dez-to-Bin-8bit ](https://github.com/smhabibjr/Bin-to-Dez-Dez-to-Bin-8bit)
-3. [ Datenfelder ](https://github.com/smhabibjr/smhabibjr-LF8-Datenfelder)
-4. [ GrundrechnerV2-LF8-Dammmueller ](https://github.com/smhabibjr/GrundrechnerV2-LF8-Dammmueller)
+- [ Kreisberechnung ](https://github.com/smhabibjr/Kreisberechnung)
+- [ Bin-to-Dez-Dez-to-Bin-8bit ](https://github.com/smhabibjr/Bin-to-Dez-Dez-to-Bin-8bit)
+- [ Datenfelder ](https://github.com/smhabibjr/smhabibjr-LF8-Datenfelder)
+- [ GrundrechnerV2-LF8-Dammmueller ](https://github.com/smhabibjr/GrundrechnerV2-LF8-Dammmueller)
 
 
 #### Quick Start Template
