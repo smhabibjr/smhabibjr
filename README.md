@@ -63,8 +63,9 @@
 - [ Electron quick-starter with webpack ](https://github.com/smhabibjr/electron-template-with-webpack-bootstrap-fontawesome-jquery)
 - [ RoR-6-template-with-bootstrap-and-jQuery ](https://github.com/smhabibjr/RoR-6-template-with-bootstrap-and-jQuery)
 
-#### 
-- cheat-sheet
+#### Cheat Sheet
+- [ Docker & Dockerhub ](https://github.com/smhabibjr/cheat-sheet/blob/main/2-docker-and-dockerhub.md)
+- [ Git & Github ](https://github.com/smhabibjr/cheat-sheet/blob/main/1-git-and-github.md)
 
 
 #### Connect with me
