@@ -7,7 +7,7 @@ I’m currently working at acs-systemhaus GmbH as a working student and studying
 
 #### Languages and Tools
 
- Bootstrap, JavaScript, CoffeScript, JQuery, Ruby, Ruby on Rails, PHP, Node.js, MySQL, sqlite, Docker-compose, Linux, Git and Github
+ Bootstrap, JavaScript, JQuery, Ruby, Ruby on Rails, PHP, Node.js, MySQL, Docker-compose, Linux, Git and Github
 
 #### Apprenticeship Project Documentation
 
