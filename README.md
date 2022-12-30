@@ -14,7 +14,8 @@ I’m currently working at acs-systemhaus GmbH as a working student and studying
 - [Checklist Management System (PHP,jQuery)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
 - [Trademark Management System (Ruby on rails, jQuery)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/TrademarkManagement.md)
 - [Dialog acceptance Management System (Ruby on rails, jQuery)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/DialogAcceptanceManagement.md)
-- [Checklist Management System (Ruby on rails, jQuery)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/ChecklistManagement.md)
+- [Holiday Administration](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/HolidayAdministration.md)
+- [If-then-otherwise Placeholder Administration (Extend ckeditor-4 Toolbar)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/If-then-otherwise-placeholder-administration.md)
 
 #### Ruby on Rails
 
