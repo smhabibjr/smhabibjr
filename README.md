@@ -16,6 +16,7 @@ I’m currently working at acs-systemhaus GmbH as a working student and studying
 - [Dialog acceptance Management System (Ruby on rails, jQuery)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/DialogAcceptanceManagement.md)
 - [Holiday Administration](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/HolidayAdministration.md)
 - [If-then-otherwise Placeholder Administration (Extend ckeditor-4 Toolbar)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/If-then-otherwise-placeholder-administration.md)
+- [Appointment Search Box](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/appointment-search-box.md)
 
 #### Ruby on Rails
 
