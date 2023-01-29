@@ -25,7 +25,7 @@ I’m currently working at acs-systemhaus GmbH as a working student and studying
 - [Authentication from scratch](https://github.com/smhabibjr/authentication_from_scratch-RoR)
 - [RoR-6-template-with-bootstrap-and-jQuery](https://github.com/smhabibjr/RoR-6-template-with-bootstrap-and-jQuery)
 - [crud-activestorage-simpleLogin-project-RoR](https://github.com/smhabibjr/crud-activestorage-simpleLogin-project-RoR)
-- [blog-website-rails](https://github.com/smhabibjr/blog-website-rails)
+- [Rails Blog](https://github.com/smhabibjr/blog-website-rails)
 - [Weather Forecast App](https://github.com/smhabibjr/weather-app-using-OpenWeather-api)
 
 #### JavaScript
