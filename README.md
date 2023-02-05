@@ -27,6 +27,7 @@ I’m currently working at acs-systemhaus GmbH as a working student and studying
 - [Famous Name List](https://github.com/smhabibjr/crud-activestorage-simpleLogin-project-RoR)
 - [Rails Blog](https://github.com/smhabibjr/blog-website-rails)
 - [Weather Forecast App](https://github.com/smhabibjr/weather-app-using-OpenWeather-api)
+- [Lightbox Photo Gallery](https://github.com/smhabibjr/Lightbox-Photo-Gallery)
 
 #### JavaScript
 
