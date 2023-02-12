@@ -28,6 +28,7 @@ I’m currently working at acs-systemhaus GmbH as a working student and studying
 - [Rails Blog](https://github.com/smhabibjr/blog-website-rails)
 - [Weather Forecast App](https://github.com/smhabibjr/weather-app-using-OpenWeather-api)
 - [Pexels Clone](https://github.com/smhabibjr/Pexels-Clone)
+- [Single Page Todos app using Hotwire](https://github.com/smhabibjr/Single-Page-Hotwire-Todos)
 
 #### JavaScript
 
