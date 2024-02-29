@@ -21,16 +21,13 @@ I’m currently working at [Communication Concept GmbH](https://www.ccgmbh.de/) 
 #### Ruby on Rails
 
 - [smeb.bd.com (Demo:Ruby on Rails)](https://github.com/smhabibjr/smeb.bd.com)
-- [acs-systemhaus.de (Demo:Ruby on Rails)](https://github.com/smhabibjr/acs-systemhaus.de)
 - [Authentication from scratch](https://github.com/smhabibjr/authentication_from_scratch-RoR)
-- [RoR-6-template-with-bootstrap-and-jQuery](https://github.com/smhabibjr/RoR-6-template-with-bootstrap-and-jQuery)
-- [SimpleLoginApp](https://github.com/smhabibjr/crud-activestorage-simpleLogin-project-RoR)
 - [Rails Blog](https://github.com/smhabibjr/blog-website-rails)
 - [Weather Forecast App](https://github.com/smhabibjr/weather-app-using-OpenWeather-api)
 - [Pexels Clone](https://github.com/smhabibjr/Pexels-Clone)
 - [Single Page Todos app using Hotwire](https://github.com/smhabibjr/Single-Page-Hotwire-Todos)
 
-#### ultimate learning path
+#### Ultimate learning path
 - [Java](https://github.com/smhabibjr/FastAPI-Ultimate-guide)
 - [FastAPI](https://github.com/smhabibjr/FastAPI-Ultimate-guide)
 - [Node Js](https://github.com/smhabibjr/Think-in-a-node-js-way)
@@ -40,15 +37,6 @@ I’m currently working at [Communication Concept GmbH](https://www.ccgmbh.de/) 
 
 - [An interactive map using Vuejs 3 & leaflet.js](https://github.com/smhabibjr/vue-map-using-leaflet)
 
-#### ElectronJs (Desktop Application framework)
-
-- [ Desktop Scrum Board for Software Development ](https://github.com/smhabibjr/Scrum-board-for-developers)
-
-#### PHP
-
-- [ Simple crud application ](https://github.com/smhabibjr/crud)
-- [ crud-using-ajax ](https://github.com/smhabibjr/crud-using-ajax)
-
 
 #### Android App Development
 
@@ -56,19 +44,10 @@ I’m currently working at [Communication Concept GmbH](https://www.ccgmbh.de/) 
 - [ HotlineBD ](https://github.com/smhabibjr/hotlineBD) | [Live on Play Store](https://play.google.com/store/apps/details?id=com.xdarssoftco.conversionpro)
 - [ conversionPro ](https://github.com/smhabibjr/conversionPro)
 
-#### Collage Project
-
-- [ Kreisberechnung ](https://github.com/smhabibjr/Kreisberechnung)
-- [ Bin-to-Dez-Dez-to-Bin-8bit ](https://github.com/smhabibjr/Bin-to-Dez-Dez-to-Bin-8bit)
-- [ Datenfelder ](https://github.com/smhabibjr/smhabibjr-LF8-Datenfelder)
-- [ GrundrechnerV2-LF8-Dammmueller ](https://github.com/smhabibjr/GrundrechnerV2-LF8-Dammmueller)
-
 
 #### Quick Start Template
 - [ Ruby on Rails 7 with bootstrap & Fontawesome added ](https://github.com/smhabibjr/Ruby-on-Rails-Starter-using-importmap)
-- [ Electron quick-starter ](https://github.com/smhabibjr/electron-quick-starter-with-mysql-connected)
 - [ Electron quick-starter with webpack ](https://github.com/smhabibjr/electron-template-with-webpack-bootstrap-fontawesome-jquery)
-- [ RoR-6-template-with-bootstrap-and-jQuery ](https://github.com/smhabibjr/RoR-6-template-with-bootstrap-and-jQuery)
 
 #### Cheat Sheet
 - [ Docker & Dockerhub ](https://github.com/smhabibjr/cheat-sheet/blob/main/2-docker-and-dockerhub.md)
