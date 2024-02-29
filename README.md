@@ -1,13 +1,13 @@
-<h4 align="center">💫 A Dresden based Full Stack Rails developer</h4>
+<h4 align="center">💫 Leipzig based Full Stack developer</h4>
 
 <!-- <h3 align="left">A Dresden based Ruby on Rails developer</h3> -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=smhabibjr&label=Profile%20views&color=0e75b6&style=flat" alt="smhabibjr" /> </p>
 
-I’m currently working at acs-systemhaus GmbH as a working student and studying Information Technology. Ask me about Full stack web development, reach me: [habib.mdhabiburrahman@outlook.com](mailto:habib.mdhabiburrahman@outlook.com). Fun fact learns a new programming language and listen to music. I regularly write articles on [habibjr.com](https://www.habibjr.com/). And here you can find my all project which I've done yet.
+I’m currently working at [Communication Concept GmbH](https://www.ccgmbh.de/) as a Junior Frontend Developer. Ask me about Full stack web development, reach me: [habib.mdhabiburrahman@outlook.com](mailto:habib.mdhabiburrahman@outlook.com). Fun fact learn a new programming language and listen to music. I regularly write articles on [habibjr.com](https://www.habibjr.com/). And here you can find my all projects which I've done yet.
 
 #### Languages and Tools
 
- Bootstrap, JavaScript, JQuery, Ruby, Ruby on Rails, PHP, Node.js, MySQL, Docker-compose, Linux, Git and Github
+ Vuejs, Quasar (Vuejs Framework), Bootstrap, JavaScript, JQuery, Ruby, Ruby on Rails, PHP, Node.js, MySQL, Docker-compose, Linux, Git and GitHub
 
 #### Apprenticeship Project Documentation
 
@@ -30,13 +30,15 @@ I’m currently working at acs-systemhaus GmbH as a working student and studying
 - [Pexels Clone](https://github.com/smhabibjr/Pexels-Clone)
 - [Single Page Todos app using Hotwire](https://github.com/smhabibjr/Single-Page-Hotwire-Todos)
 
+#### ultimate learning path
+- [Java](https://github.com/smhabibjr/FastAPI-Ultimate-guide)
+- [FastAPI](https://github.com/smhabibjr/FastAPI-Ultimate-guide)
+- [Node Js](https://github.com/smhabibjr/Think-in-a-node-js-way)
+- [Ruby](https://github.com/smhabibjr/ruby-programming-in-bangla)
+
 #### JavaScript
 
-- [ Awesome ToDo App ](https://github.com/smhabibjr/Awesome-Todo-List-using-jQuery)
-- [ Drum Kit ](https://github.com/smhabibjr/Drum_Kit-javascript)
-- [ Sign up form validation ](https://github.com/smhabibjr/sign-up-form-validation)
-- [ DOM-Manipulation ](https://github.com/smhabibjr/all-js-project)
-- [ Dice Game ](https://github.com/smhabibjr/dice-game)
+- [An interactive map using Vuejs 3 & leaflet.js](https://github.com/smhabibjr/vue-map-using-leaflet)
 
 #### ElectronJs (Desktop Application framework)
 
