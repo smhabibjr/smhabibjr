@@ -28,7 +28,7 @@ I’m currently working at [Communication Concept GmbH](https://www.ccgmbh.de/) 
 - [Single Page Todos app using Hotwire](https://github.com/smhabibjr/Single-Page-Hotwire-Todos)
 
 #### Ultimate learning path
-- [Java](https://github.com/smhabibjr/FastAPI-Ultimate-guide)
+- [Java](https://github.com/smhabibjr/java)
 - [FastAPI](https://github.com/smhabibjr/FastAPI-Ultimate-guide)
 - [Node Js](https://github.com/smhabibjr/Think-in-a-node-js-way)
 - [Ruby](https://github.com/smhabibjr/ruby-programming-in-bangla)
