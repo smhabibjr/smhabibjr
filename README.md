@@ -22,7 +22,6 @@ I’m currently working at [Communication Concept GmbH](https://www.ccgmbh.de/) 
 
 - [smeb.bd.com (Demo:Ruby on Rails)](https://github.com/smhabibjr/smeb.bd.com)
 - [Authentication from scratch](https://github.com/smhabibjr/authentication_from_scratch-RoR)
-- [Rails Blog](https://github.com/smhabibjr/blog-website-rails)
 - [Weather Forecast App](https://github.com/smhabibjr/weather-app-using-OpenWeather-api)
 - [Pexels Clone](https://github.com/smhabibjr/Pexels-Clone)
 - [Single Page Todos app using Hotwire](https://github.com/smhabibjr/Single-Page-Hotwire-Todos)
@@ -33,9 +32,10 @@ I’m currently working at [Communication Concept GmbH](https://www.ccgmbh.de/) 
 - [Node Js](https://github.com/smhabibjr/Think-in-a-node-js-way)
 - [Ruby](https://github.com/smhabibjr/ruby-programming-in-bangla)
 
-#### JavaScript
+#### JavaScript Project (Vuejs 3, Quasar Framework and React.js)
 
-- [An interactive map using Vuejs 3 & leaflet.js](https://github.com/smhabibjr/vue-map-using-leaflet)
+- [An interactive map using Vuejs 3 & leaflet.js](https://github.com/smhabibjr/vue-map-using-leaflet) | [Live on Vercel](https://vue-leaflet-map.vercel.app/)
+- [An interactive map using Vuejs 3 & leaflet.js](https://github.com/smhabibjr/vue-map-using-leaflet) | [Live on Vercel](https://vue-leaflet-map.vercel.app/)
 
 
 #### Android App Development
