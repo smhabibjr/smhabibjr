@@ -35,8 +35,8 @@ I’m currently working at [Communication Concept GmbH](https://www.ccgmbh.de/) 
 #### JavaScript Project (Vuejs 3, Quasar Framework and React.js)
 
 - [An interactive map using Vuejs 3 & leaflet.js](https://github.com/smhabibjr/vue-map-using-leaflet) | [Live on Vercel](https://vue-leaflet-map.vercel.app/)
-- [An interactive map using Vuejs 3 & leaflet.js](https://github.com/smhabibjr/vue-map-using-leaflet) | [Live on Vercel](https://vue-leaflet-map.vercel.app/)
-
+- [A payment system app using Qasar (Vuejs based framework)](https://github.com/smhabibjr/payyard) | [Live on Vercel](https://payyard.vercel.app/#/)
+- [LinkedIn skill assessments quiz app using React.js, Firebase Auth and Firebase Real-time DB)](https://github.com/smhabibjr/react-quiz-app)
 
 #### Android App Development
 
