@@ -27,8 +27,7 @@ I’m currently working at [Communication Concept GmbH](https://www.ccgmbh.de/) 
 #### Android App Development
 
 - [ Hotline Bangladesh ](https://github.com/smhabibjr/hotline_bangladesh)| [Live on Play Store](https://play.google.com/store/apps/details?id=com.xdarssoftco.hotlinebd)
-- [ HotlineBD ](https://github.com/smhabibjr/hotlineBD) | [Live on Play Store](https://play.google.com/store/apps/details?id=com.xdarssoftco.conversionpro)
-- [ conversionPro ](https://github.com/smhabibjr/conversionPro)
+- [ conversionPro ](https://github.com/smhabibjr/conversionPro) | [Live on Play Store](https://play.google.com/store/apps/details?id=com.xdarssoftco.conversionpro)
 
 #### Ruby on Rails
 
