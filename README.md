@@ -18,6 +18,18 @@ I’m currently working at [Communication Concept GmbH](https://www.ccgmbh.de/) 
 - [If-then-otherwise Placeholder Administration (Extend ckeditor-4 Toolbar)](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/If-then-otherwise-placeholder-administration.md)
 - [Appointment Search Box](https://github.com/smhabibjr/Apprenticeship-Project-Documentation/blob/main/appointment-search-box.md)
 
+#### JavaScript Project (Vuejs 3, Quasar Framework and React.js)
+
+- [An interactive map using Vuejs 3 & leaflet.js](https://github.com/smhabibjr/vue-map-using-leaflet) | [Live on Vercel](https://vue-leaflet-map.vercel.app/)
+- [A payment system app using Qasar (Vuejs-based framework)](https://github.com/smhabibjr/payyard) | [Live on Vercel](https://payyard.vercel.app/#/)
+- [LinkedIn skill assessments quiz app using React.js, Firebase Auth, and Firebase Real-time DB)](https://github.com/smhabibjr/react-quiz-app)
+
+#### Android App Development
+
+- [ Hotline Bangladesh ](https://github.com/smhabibjr/hotline_bangladesh)| [Live on Play Store](https://play.google.com/store/apps/details?id=com.xdarssoftco.hotlinebd)
+- [ HotlineBD ](https://github.com/smhabibjr/hotlineBD) | [Live on Play Store](https://play.google.com/store/apps/details?id=com.xdarssoftco.conversionpro)
+- [ conversionPro ](https://github.com/smhabibjr/conversionPro)
+
 #### Ruby on Rails
 
 - [smeb.bd.com (Demo:Ruby on Rails)](https://github.com/smhabibjr/smeb.bd.com)
@@ -31,19 +43,6 @@ I’m currently working at [Communication Concept GmbH](https://www.ccgmbh.de/) 
 - [FastAPI](https://github.com/smhabibjr/FastAPI-Ultimate-guide)
 - [Node Js](https://github.com/smhabibjr/Think-in-a-node-js-way)
 - [Ruby](https://github.com/smhabibjr/ruby-programming-in-bangla)
-
-#### JavaScript Project (Vuejs 3, Quasar Framework and React.js)
-
-- [An interactive map using Vuejs 3 & leaflet.js](https://github.com/smhabibjr/vue-map-using-leaflet) | [Live on Vercel](https://vue-leaflet-map.vercel.app/)
-- [A payment system app using Qasar (Vuejs based framework)](https://github.com/smhabibjr/payyard) | [Live on Vercel](https://payyard.vercel.app/#/)
-- [LinkedIn skill assessments quiz app using React.js, Firebase Auth and Firebase Real-time DB)](https://github.com/smhabibjr/react-quiz-app)
-
-#### Android App Development
-
-- [ Hotline Bangladesh ](https://github.com/smhabibjr/hotline_bangladesh)| [Live on Play Store](https://play.google.com/store/apps/details?id=com.xdarssoftco.hotlinebd)
-- [ HotlineBD ](https://github.com/smhabibjr/hotlineBD) | [Live on Play Store](https://play.google.com/store/apps/details?id=com.xdarssoftco.conversionpro)
-- [ conversionPro ](https://github.com/smhabibjr/conversionPro)
-
 
 #### Quick Start Template
 - [ Ruby on Rails 7 with bootstrap & Fontawesome added ](https://github.com/smhabibjr/Ruby-on-Rails-Starter-using-importmap)
